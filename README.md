@@ -19,7 +19,7 @@ Por ser uma calculadora básica, acabei não requisitando de bibliotecas matemá
 Por ser um projeto pequeno, creio ter sido extremamente proveitoso (e até divertido) me aventurar com a linguagem. Finalizo-o com um olhar positivo e em busca dos próximos!
 
 # Imagens
-![Tela inicial](screenshots\tela_inicial.png)
-![Operação sendo realizada](screenshots\operacao.png)
-![Tela de histórico aberta](screenshots\historico.png)
+![Tela inicial](screenshots/tela_inicial.png)
+![Operação sendo realizada](screenshots/operacao.png)
+![Tela de histórico aberta](screenshots/historico.png)
 
